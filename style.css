@@ -1,0 +1,54 @@
+.navbar {background-color: red;}
+
+.navbar-brand {
+  color: white !important;
+  text-align: center;
+}
+
+.nav-link {color: white !important;}
+
+body {background-color: black;}
+
+body {color: red;}
+
+.header {
+  align-items: center;
+}
+
+.row {margin: 50px;}
+
+.col-md-12 {text-align:center}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.card {
+  margin: 30%;
+
+}
+h1 {text-align: center;
+  margin-top: 30px;
+  font-size: 300%;
+}
+
+.mt-0 {margin-top: 40 !important;}
+
+p {justify-content: center;
+  /* text-size-adjust: 200%; */
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: black;
+    text-align: center;
+}
+
+
